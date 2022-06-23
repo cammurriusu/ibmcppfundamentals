@@ -1,0 +1,3 @@
+C:/Users/ricca.DESKTOP-5T9Q4IO.000/OneDrive/Documents/IBM Fundamentals C++/Module 1/SalaryInformation/cmake-build-debug/CMakeFiles/SalaryInformation.dir
+C:/Users/ricca.DESKTOP-5T9Q4IO.000/OneDrive/Documents/IBM Fundamentals C++/Module 1/SalaryInformation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ricca.DESKTOP-5T9Q4IO.000/OneDrive/Documents/IBM Fundamentals C++/Module 1/SalaryInformation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
