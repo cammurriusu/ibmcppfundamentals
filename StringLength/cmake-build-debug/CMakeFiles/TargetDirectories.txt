@@ -1,0 +1,3 @@
+/home/riccardo/Documents/IBM Fundamentals C++/Module 4/StringLength/cmake-build-debug/CMakeFiles/StringLength.dir
+/home/riccardo/Documents/IBM Fundamentals C++/Module 4/StringLength/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/riccardo/Documents/IBM Fundamentals C++/Module 4/StringLength/cmake-build-debug/CMakeFiles/rebuild_cache.dir
