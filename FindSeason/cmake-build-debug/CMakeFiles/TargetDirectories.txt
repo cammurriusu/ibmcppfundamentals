@@ -1,0 +1,3 @@
+/home/riccardo/Documents/IBM Fundamentals C++/Module 2/FindSeason/cmake-build-debug/CMakeFiles/FindSeason.dir
+/home/riccardo/Documents/IBM Fundamentals C++/Module 2/FindSeason/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/riccardo/Documents/IBM Fundamentals C++/Module 2/FindSeason/cmake-build-debug/CMakeFiles/rebuild_cache.dir
