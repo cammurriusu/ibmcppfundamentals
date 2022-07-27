@@ -1,0 +1,3 @@
+/home/riccardo/Documents/IBM Fundamentals C++/Module 3/MakeANumber/cmake-build-debug/CMakeFiles/MakeANumber.dir
+/home/riccardo/Documents/IBM Fundamentals C++/Module 3/MakeANumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/riccardo/Documents/IBM Fundamentals C++/Module 3/MakeANumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
